@@ -33,7 +33,7 @@ Using the cursor, click and drag to make colorful spinning designs
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Image
-![screenshot]()
+![screenshot](https://github.com/Mannyalfa/canvas-spirograph/blob/main/assets/images/screenshot.jpg)
 
 ## Languages/Applications
 HTML,CSS,JavaScript
